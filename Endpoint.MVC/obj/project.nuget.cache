@@ -1,0 +1,297 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bw8opi+u43YLPt10YjIR/N7naBvHqEKJfkZjLlrWdOE2L/gSfyLb38yuHsgW9a/8SjhIyb+qvy6/GwAzIAkG3g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\a.papi\\source\\repos\\MyResume\\Endpoint.MVC\\Endpoint.MVC.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.papi\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512",
+    "C:\\Users\\a.papi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.papi\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.papi\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\a.papi\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Razor 6.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Threading.Tasks.Extensions 4.5.4' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Reflection.Metadata 5.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Razor 6.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Threading.Tasks.Extensions 4.5.4' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Reflection.Metadata 5.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Threading.Tasks.Extensions 4.5.4' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Threading.Tasks.Extensions 4.5.4' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Reflection.Metadata 5.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Reflection.Metadata 5.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.NETCore.Platforms 2.1.2' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.NETCore.Platforms 2.1.2' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Razor 6.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.NETCore.Platforms 2.1.2' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.NETCore.Platforms 2.1.2' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Runtime.CompilerServices.Unsafe 5.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Memory 4.5.4' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Runtime.CompilerServices.Unsafe 5.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Memory 4.5.4' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Runtime.CompilerServices.Unsafe 5.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Runtime.CompilerServices.Unsafe 5.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Memory 4.5.4' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Memory 4.5.4' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Analyzers 3.3.2' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Analyzers 3.3.2' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Collections.Immutable 5.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Collections.Immutable 5.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Collections.Immutable 5.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Collections.Immutable 5.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Analyzers 3.3.2' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Analyzers 3.3.2' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.Mvc.Razor.Extensions 6.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.Extensions"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.Razor.Language 6.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Language"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.Razor.Language 6.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Language"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.Mvc.Razor.Extensions 6.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.Extensions"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.Razor.Language 6.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Language"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.Mvc.Razor.Extensions 6.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.Extensions"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Text.Encoding.CodePages 4.5.1' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Text.Encoding.CodePages 4.5.1' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'System.Text.Encoding.CodePages 4.5.1' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'System.Text.Encoding.CodePages 4.5.1' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Common 4.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Common 4.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.Common 4.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.CSharp 4.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.CSharp 4.0.0' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU3028",
+      "level": "Error",
+      "message": "Package 'Microsoft.CodeAnalysis.CSharp 4.0.0' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamping certificate is not trusted by the trust provider.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    }
+  ]
+}

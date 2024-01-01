@@ -1,0 +1,11 @@
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\bin\Debug\net8.0\Layer-Perstistance.deps.json
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\bin\Debug\net8.0\Layer-Perstistance.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\bin\Debug\net8.0\Layer-Perstistance.pdb
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\Layer-Perstistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\Layer-Perstistance.AssemblyInfoInputs.cache
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\Layer-Perstistance.AssemblyInfo.cs
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\Layer-Perstistance.csproj.CoreCompileInputs.cache
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\Layer-Perstistance.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\refint\Layer-Perstistance.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\Layer-Perstistance.pdb
+C:\Users\a.papi\source\repos\MyResume\Layer-Perstistance\obj\Debug\net8.0\ref\Layer-Perstistance.dll

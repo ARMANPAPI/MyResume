@@ -1,0 +1,11 @@
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\bin\Debug\net8.0\Layer-Application.deps.json
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\bin\Debug\net8.0\Layer-Application.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\bin\Debug\net8.0\Layer-Application.pdb
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.AssemblyInfoInputs.cache
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.AssemblyInfo.cs
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.csproj.CoreCompileInputs.cache
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\refint\Layer-Application.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.pdb
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\ref\Layer-Application.dll

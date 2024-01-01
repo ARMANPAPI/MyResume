@@ -1,0 +1,11 @@
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\bin\Debug\net8.0\Layer-Common.deps.json
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\bin\Debug\net8.0\Layer-Common.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\bin\Debug\net8.0\Layer-Common.pdb
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\Layer-Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\Layer-Common.AssemblyInfoInputs.cache
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\Layer-Common.AssemblyInfo.cs
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\Layer-Common.csproj.CoreCompileInputs.cache
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\Layer-Common.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\refint\Layer-Common.dll
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\Layer-Common.pdb
+C:\Users\a.papi\source\repos\MyResume\Layer-Common\obj\Debug\net8.0\ref\Layer-Common.dll
