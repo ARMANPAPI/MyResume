@@ -1,16 +1,192 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndPoint.bundle.scp.css",
-      "PackagePath": "staticwebassets\\EndPoint.bundle.scp.css"
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
     },
     {
       "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\fonts\\Vazir.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.ttf"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\background\\creative2-banner-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\creative2-banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\background\\stats-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\stats-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\background\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\blog\\blog-big.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\blog\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\blog\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\blog\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\blog\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\comment-authors\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-authors\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\comment-authors\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-authors\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\comment-authors\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-authors\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\portfolio\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\portfolio\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\portfolio\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\portfolio\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\portfolio\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\portfolio\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\images\\testimonial\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\jquery.stellar.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\particles.json",
+      "PackagePath": "staticwebassets\\js\\particles.json"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\particles.min.js",
+      "PackagePath": "staticwebassets\\js\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\scrollIt.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollIt.min.js"
     },
     {
       "Id": "C:\\Users\\a.papi\\source\\repos\\MyResume\\EndPoint\\wwwroot\\js\\site.js",

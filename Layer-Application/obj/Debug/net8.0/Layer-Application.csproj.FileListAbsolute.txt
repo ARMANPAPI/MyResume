@@ -5,6 +5,7 @@ C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-A
 C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.AssemblyInfoInputs.cache
 C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.AssemblyInfo.cs
 C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.csproj.CoreCompileInputs.cache
+C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.sourcelink.json
 C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.dll
 C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\refint\Layer-Application.dll
 C:\Users\a.papi\source\repos\MyResume\Layer-Application\obj\Debug\net8.0\Layer-Application.pdb

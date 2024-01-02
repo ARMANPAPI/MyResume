@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Layer-Perstistance", "Layer
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persention", "Persention", "{E4648EA1-D68C-47CA-8F12-173096D1C6D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndPoint", "EndPoint\EndPoint.csproj", "{6796533F-38BC-445D-BD9A-C82E18838BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EndPoint", "EndPoint\EndPoint.csproj", "{6796533F-38BC-445D-BD9A-C82E18838BE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
