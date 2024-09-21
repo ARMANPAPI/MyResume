@@ -1,0 +1,11 @@
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\bin\Debug\net7.0\Layer-Application.deps.json
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\bin\Debug\net7.0\Layer-Application.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\bin\Debug\net7.0\Layer-Application.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\Layer-Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\Layer-Application.AssemblyInfoInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\Layer-Application.AssemblyInfo.cs
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\Layer-Application.csproj.CoreCompileInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\Layer-Application.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\refint\Layer-Application.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\Layer-Application.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Application\obj\Debug\net7.0\ref\Layer-Application.dll

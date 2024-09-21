@@ -1,0 +1,11 @@
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\bin\Debug\net7.0\Layer-Perstistance.deps.json
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\bin\Debug\net7.0\Layer-Perstistance.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\bin\Debug\net7.0\Layer-Perstistance.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\Layer-Perstistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\Layer-Perstistance.AssemblyInfoInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\Layer-Perstistance.AssemblyInfo.cs
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\Layer-Perstistance.csproj.CoreCompileInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\Layer-Perstistance.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\refint\Layer-Perstistance.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\Layer-Perstistance.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Perstistance\obj\Debug\net7.0\ref\Layer-Perstistance.dll

@@ -1,0 +1,11 @@
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\bin\Debug\net7.0\Layer-Domain.deps.json
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\bin\Debug\net7.0\Layer-Domain.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\bin\Debug\net7.0\Layer-Domain.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\Layer-Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\Layer-Domain.AssemblyInfoInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\Layer-Domain.AssemblyInfo.cs
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\Layer-Domain.csproj.CoreCompileInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\Layer-Domain.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\refint\Layer-Domain.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\Layer-Domain.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Domain\obj\Debug\net7.0\ref\Layer-Domain.dll

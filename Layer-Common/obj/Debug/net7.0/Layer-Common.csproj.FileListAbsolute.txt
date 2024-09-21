@@ -1,0 +1,11 @@
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\bin\Debug\net7.0\Layer-Common.deps.json
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\bin\Debug\net7.0\Layer-Common.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\bin\Debug\net7.0\Layer-Common.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\Layer-Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\Layer-Common.AssemblyInfoInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\Layer-Common.AssemblyInfo.cs
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\Layer-Common.csproj.CoreCompileInputs.cache
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\Layer-Common.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\refint\Layer-Common.dll
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\Layer-Common.pdb
+D:\پروژخ مجتبی\Project_IranMAgicar\Layer-Common\obj\Debug\net7.0\ref\Layer-Common.dll
